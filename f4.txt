@@ -1,1 +1,2 @@
 adding new feature
+adding new bug fix
